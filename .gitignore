@@ -1,28 +1,13 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Python
+.ipynb_checkpoints/
+*.pyc
 
-# Precompiled Headers
-*.gch
-*.pch
+# R
+.RData/
+.Rhistory
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Directories
+data/
 
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Mac
+.DS_Store
